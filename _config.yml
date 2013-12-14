@@ -41,5 +41,5 @@ markdown:    redcarpet
 
 default_feature: feature-watercolour.jpg
 
-exclude: ["node_modules"]
+exclude: ['node_modules', '*.scriv/*']
 
