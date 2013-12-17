@@ -1,7 +1,7 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Thoughts from the Solipsist Nation"
+tags: [blog, maker, geek, iot, entrepreneur, art, code]
 image:
   feature: feature-watercolour.jpg
 ---
