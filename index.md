@@ -26,18 +26,21 @@ really just a big kid entranced by geekery.
   <li><a href="http://flickr.com/ennui2342" rel="me">Flickr</a></li>
   <li><a href="https://pinboard.in/u:ennui2342" rel="me">Pinboard</a></li>
   <li><a href="http://lanyrd.com/ennui2342" rel="me">Lanyrd</a></li>
-  <li><a href="http://www.meetup.com/Cambridge-sketch-group/members/9058511/" rel="me">Meetup</a></li>
   <li><a href="http://www.goodreads.com/ennui2342" rel="me">Goodreads</a></li>
   <li><a href="https://foursquare.com/ennui2342" rel="me">Foursquare</a></li>
   <li><a href="http://boardgamegeek.com/user/ennui" rel="me">BoardGameGeek</a></li>
   <li><a href="https://plus.google.com/110560929370891202956" rel="me">Google Plus</a></li>
+  <li><a href="http://www.thingiverse.com/ennui2342" rel="me">Thingiverse</a></li>
   <li><a href="http://www.amazon.co.uk/registry/wishlist/RMCAPGKQ2AK" rel="me">Amazon wishlist</a></li>
   <li><a href="http://www.ebay.co.uk/usr/ennui2342" rel="me">eBay</a></li>
-  <li><a href="http://www.last.fm/user/ennui2342" rel="me">LastFM</a></li>
   <li><a href="http://disqus.com/ennui2342/" rel="me">Disqus</a></li>
+  <li><a href="http://www.last.fm/user/ennui2342" rel="me">LastFM</a></li>
+<!--
   <li><a href="http://www.youtube.com/channel/UCygpE0e_YXItfpo-JHMy_UQ" rel="me">YouTube</a></li>
   <li><a href="https://speakerdeck.com/ennui2342" rel="me">Speaker Deck</a></li>
-  <li><a href="http://www.thingiverse.com/ennui2342" rel="me">Thingiverse</a></li>
-  <!-- Etsy -->
+  Etsy
+-->
 </ul>
 
+I also run a couple of Meetup groups in Cambridge - the <a href="http://www.meetup.com/Cambridge-sketch-group/members/9058511/">Cambridge Sketch Group</a> and
+<a href="http://www.meetup.com/Kings-College-Life-Drawing/">Kings College Life Drawing</a>.
