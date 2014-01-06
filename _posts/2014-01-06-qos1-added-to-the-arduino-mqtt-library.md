@@ -3,7 +3,7 @@ layout: post
 categories: blog
 comments: true
 author: Mark Cheverton
-title: QOS1 added to the Arduino MQTT library
+title: QoS1 added to the Arduino MQTT library
 description: How to use Quality of Service level 1 (guaranteed at least once delivery) in the Arduino MQTT library
 ---
 
