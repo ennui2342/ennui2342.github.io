@@ -42,5 +42,5 @@ really just a big kid entranced by geekery.
 -->
 </ul>
 
-I also run a couple of Meetup groups in Cambridge - the <a href="http://www.meetup.com/Cambridge-sketch-group/members/9058511/">Cambridge Sketch Group</a> and
-<a href="http://www.meetup.com/Kings-College-Life-Drawing/">Kings College Life Drawing</a>.
+I also run a couple of Meetup groups in Cambridge - the <a href="http://www.meetup.com/Cambridge-sketch-group/members/9058511/">Cambridge Sketch Group</a>,
+<a href="http://www.meetup.com/Kings-College-Life-Drawing/">Kings College Life Drawing</a>, and <a href="http://www.meetup.com/Cambridge-Internet-of-Things/">Cambridge Internet of Things</a>.
