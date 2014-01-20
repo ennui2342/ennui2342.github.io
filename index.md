@@ -29,7 +29,7 @@ really just a big kid entranced by geekery.
   <li><a href="http://www.goodreads.com/ennui2342" rel="me">Goodreads</a></li>
   <li><a href="https://foursquare.com/ennui2342" rel="me">Foursquare</a></li>
   <li><a href="http://boardgamegeek.com/user/ennui" rel="me">BoardGameGeek</a></li>
-  <li><a href="https://plus.google.com/110560929370891202956" rel="me">Google Plus</a></li>
+  <li><a href="https://plus.google.com/+MarkCheverton" rel="me">Google Plus</a></li>
   <li><a href="http://www.thingiverse.com/ennui2342" rel="me">Thingiverse</a></li>
   <li><a href="http://www.amazon.co.uk/registry/wishlist/RMCAPGKQ2AK" rel="me">Amazon wishlist</a></li>
   <li><a href="http://www.ebay.co.uk/usr/ennui2342" rel="me">eBay</a></li>
