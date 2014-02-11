@@ -77,7 +77,7 @@ void callback(char* topic, byte* payload, unsigned int length) {
 }
 
 EthernetClient ethClient;
-PubSubClient client(mqtt_server, 1883, callback, ethClient, &sram);
+PubSubClient client(mqtt_server, 1883, callback, ethClient, sram);
 
 void setup() {
   Ethernet.begin(mac);
