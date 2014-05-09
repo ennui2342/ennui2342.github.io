@@ -24,6 +24,7 @@ really just a big kid entranced by geekery.
   <li><a href="http://twitter.com/ennui2342" rel="me">Twitter</a></li>
   <li><a href="http://linkedin.com/in/markcheverton" rel="me">Linkedin</a></li>
   <li><a href="http://flickr.com/ennui2342" rel="me">Flickr</a></li>
+  <li><a href="http://instagram.com/ennui2342" rel="me">Instagram</a></li>
   <li><a href="https://pinboard.in/u:ennui2342" rel="me">Pinboard</a></li>
   <li><a href="http://lanyrd.com/ennui2342" rel="me">Lanyrd</a></li>
   <li><a href="http://www.goodreads.com/ennui2342" rel="me">Goodreads</a></li>
