@@ -22,7 +22,7 @@ Paul tweets as [@Mr_IoT](http://twitter.com/Mr_IoT) and you can find out more ab
 Big thanks as always to [Makespace][makespace], who are still accepting members. So if you have
 an idea for a great IoT product but don't have the equipment, Makespace
 is there for you - we're lucky to have one of the biggest hacker spaces
-in the country, so don't waste the opportunity! Check out [the Makespace website]()
+in the country, so don't waste the opportunity! Check out [the Makespace website][makespace]
 and sign up for an induction.
 
 Videos
