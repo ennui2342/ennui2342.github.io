@@ -29,8 +29,8 @@ Videos
 ---------
 
 Videos of both our September talks are on Youtube:
-<iframe width="560" height="315" src="//www.youtube.com/embed/yyy_TThpgYE" frameborder="0"></iframe>
-<iframe width="560" height="315" src="//www.youtube.com/embed/pLixM_egCcg" frameborder="0"></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/zvb500aRt6s?list=UUIE4Zs8H3awq-apA2fgSQ6g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/wPLe920DWpI?list=UUIE4Zs8H3awq-apA2fgSQ6g" frameborder="0" allowfullscreen></iframe>
 
 Next month I hope to have the quality issues conquered and a separate
 feed of the slides so they'll be readable!

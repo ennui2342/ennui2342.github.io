@@ -24,8 +24,8 @@ Videos
 
 Videos of both our November talks are on Youtube:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/S40e-Y-dI0Q" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe width="560" height="315" src="//www.youtube.com/embed/wKwr48Sm29M" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/ilTRYT91RTw?list=UUIE4Zs8H3awq-apA2fgSQ6g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/JifYVGp727c?list=UUIE4Zs8H3awq-apA2fgSQ6g" frameborder="0" allowfullscreen></iframe>
 
 (apologies for the lip sync issues - hope to have this cracked next
 time)
@@ -33,9 +33,8 @@ time)
 
 October's talks are also online:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/stAaouH4y2g" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<iframe width="560" height="315" src="//www.youtube.com/embed/XgBzWS2NTQA" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/nh_2hw4U498?list=UUIE4Zs8H3awq-apA2fgSQ6g" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/cErEerALUzQ?list=UUIE4Zs8H3awq-apA2fgSQ6g" frameborder="0" allowfullscreen></iframe>
 
 If you enjoyed Dan’s talk I would recommend you watch his 2013
 dConstruct talk:
