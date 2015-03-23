@@ -6,9 +6,9 @@ image:
   feature: feature-watercolour.jpg
 ---
 
-**Mark Cheverton** is a technologist working at Red Gate Ventures in
-Cambridge UK, where he is responsible for innovation,
-acquisitions, and investments. In his free time he likes to think of
+**Mark Cheverton** is a technologist working at software engineering
+firm Redgate in Cambridge UK, where he is the Chief Technology Officer.
+In his free time he likes to think of
 himself as a maker and an artist, but as his daughter tells him he's
 really just a big kid entranced by geekery.
 

@@ -1,14 +1,15 @@
 title: The Digital Polis
 tagline: Solipsist Nation
 description: A blog about innovation, geekery, and the obsessions of a maker
-url: http://ecafe.org
+#url: http://ecafe.org
+url: http://localhost:4000
 
 disqus_shortname: digitalpolis
 
 owner:
   name:             Mark Cheverton
   avatar:           avatar.jpg
-  bio:              "Geek, maker, artist, and entrepreuneur. Responsible for innovation, acquisitions and investments at Red Gate Ventures."
+  bio:              "Geek, maker, artist, and entrepreuneur. CTO at Redgate software."
   email:            mark.cheverton@ecafe.org
   twitter:          ennui2342
   github:           ennui2342
@@ -19,7 +20,7 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:      https://plus.google.com/110560929370891202956
 
-google_analytics:   UA-220560-6
+#google_analytics:   UA-220560-6
 google_verify:      P7biiNYjgRQdJzNWdE3-TT0jB4j7wbw7HKYvrWe6JMc
 # # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 #bing_verify:
