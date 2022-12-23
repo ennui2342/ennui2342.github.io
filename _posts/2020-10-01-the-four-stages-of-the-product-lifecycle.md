@@ -12,21 +12,21 @@ All product engineering is not the same.
 
 That may seem like a simple statement, but software engineering is often equated to churning out lines of code, and if that’s the case why does it matter whether that code is for a mature product like [SQL Monitor](https://www.red-gate.com/products/dba/sql-monitor/) or our latest innovation like [Spawn](https://spawn.cc/) — it’s all just development isn’t it? Well, as you might expect the answer is that it’s not that simple. Back in the 90’s Geoffrey Moore wrote a game changing book for the software industry called [Crossing the Chasm](https://www.amazon.co.uk/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=asc_df_0062292986/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=8085158987323133029&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006598&hvtargid=pla-464512051164&psc=1&th=1&psc=1) in which he describes how products, and categories of products, grow from early stage innovations through to mass market adoption (and onwards through decline to end of life!). As an example, here’s a mapping I did in 2019 about where Redgate’s product groups lie on Moore’s lifecycle:
 
-![[Pasted image 20221223160227.png]]
+![Pasted image 20221223160227.png](Pasted%20image%2020221223160227.png)
 
 Redgate’s 2019 product groups on the technology lifecycle
 
 In Moore’s later book [Dealing with Darwin](https://www.amazon.co.uk/Dealing-Darwin-Companies-Innovate-Evolution/dp/1841127175/ref=sr_1_1?adgrpid=102902572799&dchild=1&gclid=CjwKCAjw_NX7BRA1EiwA2dpg0vwRFx3ctrU81z4ERQ-jpCwJsaihlLO1VoZSAUTscwMv5D8Q1QvWiRoCefwQAvD_BwE&hvadid=445963435392&hvdev=c&hvlocphy=1006598&hvnetw=g&hvqmt=e&hvrand=13137350016550672658&hvtargid=kwd-297832163682&hydadcr=24405_1748889&keywords=dealing+with+darwin&qid=1601542024&sr=8-1&tag=googhydr-21), he talks about how in different stages of the lifecycle different approaches to innovation are needed. Innovation is often associated with the kind of work we do in our [Foundry](https://www.redgatefoundry.com/) team on very early stage product ideas, but the reality is that software engineering itself is almost always innovation, whenever we add new features and capabilities to our products we’re innovating, and Moore called out these different types of innovation with names like ‘line extension innovation’, ‘platform innovation’, ‘renewal innovation’ and so on (19 different types in all!).
 
-![[Pasted image 20221223160247.png]]
+![Pasted image 20221223160247.png](Pasted%20image%2020221223160247.png)
 
 As a company striving for ingenious simplicity, 19 types of innovation whilst academically interesting is hardly a practical day-to-day model. Back in 2016 Ken Beck, one of the original founders of the whole agile movement, published a blog post talking about a [3x model](https://medium.com/@kentbeck_7670/the-product-development-triathlon-6464e2763c46) he’d been applying to his work at Facebook. His model was drawn on a post-it note which puts it firmly in our ballpark:
 
-![[Pasted image 20221223160308.png]]
+![Pasted image 20221223160308.png](Pasted%20image%2020221223160308.png)
 
 In this model he describes how a product moves from exploration where you’re learning through experimentation, through to expansion where you’re experiencing high growth, and then extract where it’s time to focus on a good return on investment. We used this model to map out our own version which adds in a retire phase to cover products in our portfolio that are in declining markets…
 
-![[Pasted image 20221223160335.png]]
+![Pasted image 20221223160335.png](Pasted%20image%2020221223160335.png)
 
 The primary business goal for a product typically varies by which lifecycle stage it’s in:
 
