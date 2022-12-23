@@ -1,0 +1,179 @@
+Arduino Uno                              £18.05 (Farnell)
+
+Arduino starter kit (w/ sensors)         £40.42 (Proto Pic/Sparkfun)
+  (USB, breadboard, jumpers, resistors
+   flex, softpot, photocell, thermistor,
+   leds, trim pot, buzzer, button)
+
+Proto-PIC Arduino Starter Kit for UNO    £44.39 (Proto Pic)
+  (USB, Breadboard, jumpers, box, battery clip, breadboard shield, 
+   LED, capacitors, resistors, diode, pot
+   tilt, thermistor, photo resistor, buzzer, switches, servo)
+
+Proto-PIC Components Starter Kit         £23.99 (Proto Pic)
+  (Same as above w/out Arduino)
+
+Beginner Parts Kit                       £23.83 (Proto Pic/Sparkfun)
+  (caps, diodes, transistors, headers, switches, trimpot, opamp, regulator, timer, led, 7seg, photocell)
+
+COMPONENTS KIT - BEGINNER EDITION        E30.00 (Cooking Hacks)
+  (resistors, caps, pots, diodes, octocouplers, transistors, leds, speakers, buttons, wires, cutter)
+
+ARDUINO SIDEKICK BASIC KIT               E20.00 (Cooking Hacks)
+  (Breadboard, jumper, led, cap, resistor, tilt, thermistor, photo resistor, diode, buzzer, button, switch, servo, pot, box)
+
+
+Proto-PIC Basic Sensor Kit               £18.54 (Proto Pic)
+  (Magnetic, Softpot, Flex, piezo, breadboard)
+Sensor Kit                              £125.99 (Proto Pic/Sparkfun)
+  HMC5883L magnetometer
+  ADXL335 accelerometer
+  ITG-3200 gyro
+  PIR motion
+  Maxbotix LV-EZ1 rangefinder
+  HIH-4030 humidity
+  IR Receiver
+  BMP085 barometric
+  piezo, reed, force resistor, photocell, Phototransistor, softpot, resistors
+
+
+PIN HEADERS EXPERIMENTAL PACK             E6.00 (Cooking Hacks)
+Resistor Kit - 1/4W                       £7.79 (Proto Pic/Sparkfun)
+
+Ladyada's Electronics Toolkit              $100 (Adafruit)
+
+Alligator Test Leads - Multicolored 10 Pk £2.44 (Proto Pic/Sparkfun)
+1A USB Power Supply                       £4.02 (Proto Pic)
+Half-size breadboard                      £5.94 (Proto Pic/Adafruit)
+Breadboard with Binding Posts            £10.57 (Proto Pic/Sparkfun)
+
+DC Barrel Jack Adapter - Female           £1.79 (Proto Pic/Sparkfun)
+DC Barrel Jack Adapter - Male             £2.41 (Proto Pic/Sparkfun)
+Break Away Headers - Right Angle          £0.65 (Proto Pic/Sparkfun)
+Break Away Headers - Straight             £0.65 (Proto Pic/Sparkfun)
+Break Away Female Headers                 £0.61 (Proto Pic/Sparkfun)
+Hook-Up Wire - Assortment (Solid Core)   £15.98 (Proto Pic/Sparkfun)
+Hook-Up Wire - Assortment (Stranded)     £15.98 (Proto Pic/Sparkfun)
+Jumper Wire - JST Black Red               £0.86 (Proto Pic/Sparkfun)
+JST Right-Angle Connector Thru-Hole 2Pin  £0.79 (Proto Pic/Sparkfun)
+Barrel Jack to 2-pin JST                  £2.52 (Proto Pic/Sparkfun)
+Jumper wires 65pcs                        £5.99 (Proto Pic/Seeedstudio)
+Ribbon Cable - 10 wire (3ft)              £0.70 (Proto Pic/Sparkfun)
+
+Xino <> FTDI adaptor                      £1.00 (Ciseco)
+FTDI Voltage Selectable board             £9.92 (Proto Pic)
+USB to Serial TTL Cable FTDI             £12.35 (Proto Pic/Sparkfun)
+
+GPIO Breakout Board with Cable            £4.79 (Proto Pic)
+Slice of Pi/IO                            £5.96 (Ciesco)
+Slice of Relay                            £9.99 (Ciesco)
+Pi Camera                                $29.95 (Adafruit)
+Pi NoIR camera                           $29.95 (Adafruit)
+microSD USB Reader                        £6.94 (Proto Pic/Sparkfun)
+Miniature WiFi 150Mbps (802.11b/g/n)     £10.07 (Proto Pic)
+USB 2.0 powered hub                      $21.95 (Adafruit)
+Cerberus USB Cable - 6ft w hub            £4.79 (Proto Pic/Sparkfun)
+Kingston SDC4/4GB 4GB SDHC                £6.60 (Proto Pic)
+
+Battery Holder 2xAA Cover Switch JST      £1.32 (Proto Pic/Sparkfun)
+Battery holder 3xAA with switch
+Battery holder 3xAAA with switch          $1.95 (Adafruit)
+9v battery holders with switch & barrel   $3.95 (Adafruit)
+
+LiPo battery 3.7v 2500mAh                £13.19 (Proto Pic)
+LiPo battery 3.7v 2000mAh                £11.89 (Proto Pic)
+LiPo Battery 3.7v 1000mAh                 £5.99 (Proto Pic)
+LiPo Battery 3.7v 850mAh                  £6.30 (Proto Pic)
+LiPo Battery 3.7v 400mAh                  £7.01 (Proto Pic)
+LiPo battery 3.7v 110mAh                  £5.30 (Proto Pic)
+LiPo battery 3.7v 40mAh                   £3.83 (Proto Pic)
+USB/DC LiPo charger 5-12V - 3.7/4.2v     $17.95 (Adafruit)
+
+2x 2032 Coin Cell Holder - 6V             £3.00 (Proto Pic)
+Coin Cell Holder - 20mm                   £0.28 (Proto Pic)
+Sewable CR2032 Battery Holder             £1.32 (Proto Pic)
+CR2032 Lithium Coin Cell Battery          £1.04 (Proto Pic)
+
+9v PP3 Cell Ultra Battery pack of 1       £5.16 (Proto Pic)
+12 pack AA battery                       £12.77 (Proto Pic)
+AAA battery
+
+3ply conductive thread                    $6.95 (Adafruit)
+2ply conductive thread                    $5.95 (Adafruit)
+Tactile on/off switch                     $3.95 (Adafruit)
+
+8 channel logic level converter           £8.39 (Proto Pic)
+ADS1115 16-Bit ADC                       £17.94 (Proto Pic)
+E1115 PS/2 Keyboard to TTL Serial        $15.95 (Adafruit)
+6-pin AVR ISP Breadboard Adapter Kit      $0.95 (Adafruit)
+6-pin Socket/Socket IDC cable - 6"        $2.00 (Adafruit)
+
+4 channel Arduino relay shield           £18.79 (Proto Pic/Seeedstudio)
+Motor/Stepper/Servo shield v2            £16.32 (Proto Pic/Adafruit)
+Wave shield v1.1                         £18.01 (Proto Pic/Adafruit)
+MIDI Shield                              £13.87 (Proto Pic/Sparkfun)
+ProtoScrewShield                          £9.94 (Proto Pic/Sparkfun)
+Servo shield                             $14.95 (Adafruit)
+Motor party add-on pack for Arduino      $42.00 (Adafruit)
+
+RGB LCD Shield Kit 16x2 NEGATIVE DISPLAY £20.39 (Proto Pic/Adafruit)
+LCD Button Shield                        £13.19 (Proto Pic/Sparkfun)
+RGB backlight positive LCD 16x2 + extras  £9.94 (Proto Pic/Adafruit)
+
+Monochrome 1.3" 128x64 OLED              £21.00 (Proto Pic/Adafruit)
+Monochrome 0.96" 128x64 OLED             £16.79 (Proto Pic/Adafruit)
+1.8" 18bit Color TFT Shield microSDd Joystick £29.99 (Proto Pic/Adafruit)
+RePaper - 2.7" Graphic eInk              £38.39 (Proto Pic)
+4x Breadboard RGB Smart NeoPixel          £6.35 (Proto Pic/Adafruit)
+0.56" 4Digit 7Seg I2C Blue               £10.80 (Proto Pic/Adafruit)
+NeoPixel RGB LED Weatherproof 30 LED 1m  BLACK £14.39 (Proto Pic/Adafruit)
+Adafruit NeoPixel NeoMatrix 8x8 - 64 RGB LED Pixel Matrix £29.40 (Proto Pic/Adafruit)
+AdaFruit NeoPixel Ring - 16 x WS2812 5050 RGB LED with Integrated Drivers £8.40 (Proto Pic/Adafruit)
+NeoPixel Stick - 8 x WS2812 5050 RGB LED with Integrated Drivers £5.03 (Proto Pic/Adafruit)
+
+Thermocouple Amplifier MAX31855 $17.50
+TSL2561 digital luminosity / lux / light sensor $5.95
+IR distance sensor includes cable (10cm-80cm) $14.95
+IR distance sensor includes cable (20cm-150cm) $15.95
+Liquid Flow Meter - Plastic 1/2" NPS Threaded $9.95
+RGB Color Sensor with IR filter - TCS34725 $14.95
+Conductive Rubber Cord Stretch Sensor + extras! $9.95
+12" eTape Liquid Level Sensor + extras $39.95
+Contact-less Infrared Thermopile Sensor Breakout - TMP006 $14.95
+Magnetic contact switch (door sensor) $4.00
+Circular Soft Potentiometer (Ribbon Sensor) $14.95
+12V Solenoid Valve - 3/4"                £6.23 (Proto Pic/Sparkfun)
+
+Standalone Momentary Capacitive Touch Sensor Breakout $5.95 (Adafruit)
+Standalone 5-Pad Capacitive Touch Sensor Breakout - AT42QT1070 $7.50 (Adafruit)
+CAP1188 - 8-Key Capacitive Touch Sensor Breakout - I2C or SPI $7.95 (Adafruit)
+MPR121 Capacitive Touch Sensor            £6.94 (Proto Pic/Sparkfun)
+
+Small Arcade Joystick                    £11.99 (Proto Pic/Adafruit)
+Joystick Shield Kit for Arduino           £8.86 (Proto Pic/Sparkfun)
+Keypad - 12 Button                        £3.00 (Proto Pic/Sparkfun)
+Pull Chain Switch                         £1.54 (Proto Pic/Sparkfun)
+Tactile Button Assortment                 £3.44 (Proto Pic/Sparkfun)
+Concave Button - Blue                     £1.66 (Proto Pic/Sparkfun)
+Rotary Encoder LED Ring Blue             £15.89 (Proto Pic/Sparkfun)
+Mini Push Button Switch (Pack Of 10)      £1.20 (Proto Pic/Sparkfun)
+HVAC IR REMOTE MODULE FOR ARDUINO / RASPBERRY PI E30.00 (Cooking Hacks)
+
+Electret Microphone Amplifier - MAX4466 with Adjustable Gain $6.95 (Adafruit)
+Breakout Board for Electret Microphone    £4.92 (Proto Pic/Sparkfun)
+
+VCNL4000 Infrared Emitter/Proximity       £7.70 (Proto Pic/Sparkfun)
+Surface Transducer - Small                £8.68 (Proto Pic/Sparkfun)
+Aqua EL Wire Starter Pack - 2.5 Metres   £15.30 (Proto Pic)
+Non-Invasive Current Sensor - 30A         £8.57 (Proto Pic)
+Pressure-Sensitive Conductive Sheet       £3.47 (Proto Pic)
+Photoluminescent Panel - 3x5"             £1.79 (Proto Pic)
+Muscle Wire - 0.012" Diameter (1 foot)    £1.80 (Proto Pic)
+
+W25Q80BV - 1 MByte SPI Flash              $1.95 (Adafruit)
+Adafruit PCB Ruler - 6"                   $4.95 (Adafruit)
+Costume Goggles                           $9.95 (Adafruit)
+Vibrating Mini Motor Disc                 $1.95 (Adafruit)
+OpenLog                                  £17.22 (Proto Pic/Sparkfun)
+Laser Module - Red with TTL Control      £12.59 (Proto Pic/Sparkfun)
+Magnet Wire Kit                           £8.99 (Proto Pic/Sparkfun)
