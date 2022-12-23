@@ -4,9 +4,11 @@ title: 2020-10-01-the-four-stages-of-the-product-lifecycle
 excerpt: How you approach innovation needs to depend on where your products are
   in their lifecycle.
 tags:
-  - lifecycle
   - innovation
+  - lifecycle
 ---
+
+#innovation #lifecycle 
 
 All product engineering is not the same.
 
