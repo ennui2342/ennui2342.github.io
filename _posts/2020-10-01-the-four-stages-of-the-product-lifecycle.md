@@ -1,5 +1,5 @@
 ---
-share: true
+publish: true
 title: The four stages of the product lifecycle
 filename: 2020-10-01-the-four-stages-of-the-product-lifecycle
 excerpt: How you approach innovation needs to depend on where your products are
@@ -7,12 +7,14 @@ excerpt: How you approach innovation needs to depend on where your products are
 tags:
   - innovation
   - lifecycle
+  - talc
+  - product-management
 ---
 
 
 All product engineering is not the same.
 
-That may seem like a simple statement, but software engineering is often equated to churning out lines of code, and if that’s the case why does it matter whether that code is for a mature product like [SQL Monitor](https://www.red-gate.com/products/dba/sql-monitor/) or our latest innovation like [Spawn](https://spawn.cc/) — it’s all just development isn’t it? Well, as you might expect the answer is that it’s not that simple. Back in the 90’s Geoffrey Moore wrote a game changing book for the software industry called [Crossing the Chasm](https://www.amazon.co.uk/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=asc_df_0062292986/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=8085158987323133029&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006598&hvtargid=pla-464512051164&psc=1&th=1&psc=1) in which he describes how products, and categories of products, grow from early stage innovations through to mass market adoption (and onwards through decline to end of life!). As an example, here’s a mapping I did in 2019 about where Redgate’s product groups lie on Moore’s lifecycle:
+That may seem like a simple statement, but software engineering is often equated to churning out lines of code, and if that’s the case why does it matter whether that code is for a mature product like [SQL Monitor](https://www.red-gate.com/products/dba/sql-monitor/) or our latest innovation like [Spawn](https://spawn.cc/) — it’s all just development isn’t it? Well, as you might expect the answer is that it’s not that simple. Back in the 90’s Geoffrey Moore wrote a game changing for the software industry called [Crossing the Chasm](https://www.amazon.co.uk/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=asc_df_0062292986/?tag=googshopuk-21&linkCode=df0&hvadid=310843183616&hvpos=&hvnetw=g&hvrand=8085158987323133029&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006598&hvtargid=pla-464512051164&psc=1&th=1&psc=1) in which he describes how products, and categories of products, grow from early stage innovations through to mass market adoption (and onwards through decline to end of life!). As an example, here’s a mapping I did in 2019 about where Redgate’s product groups lie on Moore’s lifecycle:
 
 ![The technology adoption lifecycle.png](../assets/images/The%20technology%20adoption%20lifecycle.png)
 
@@ -39,4 +41,4 @@ The primary business goal for a product typically varies by which lifecycle stag
 
 So what does this practically mean for you if you work in engineering? When we go through our [dynamic re-teaming](https://medium.com/ingeniouslysimple/team-self-selection-without-the-anxiety-be5a1478c484) exercise at the start of the year, we ask the teams to put together a charter which makes it clear what products a team will be working on and importantly where the products sit in this model and hence the style work that you might be doing as a member of the team. As we stated at the start of this post; all engineering is not the same, but perhaps more importantly we recognise that all engineers are not the same. By being clear on the software lifecycle and allowing fluidity between teams, we hope that people can gravitate towards the work that best suits them where they can make the biggest contribution.
 
-#innovation #lifecycle 
+#innovation #lifecycle #talc #product-management 
