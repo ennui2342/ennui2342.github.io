@@ -1,13 +1,3 @@
-#links:
-#  - title: About
-#    url: /
-#  - title: Blog
-#    url: /blog
-
-#future:      true
-#pygments:    true
-#markdown:    redcarpet
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -122,7 +112,7 @@ analytics:
 author:
   name             : "Mark Cheverton"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Geek, maker, artist, and entrepreuneur. By day fractional CTO."
+  bio              : "Geek, maker, artisan, astronomer, and entrepreneur."
   location         : "Cambridge, UK"
   email            : "mark.cheverton@ecafe.org"
   links:
