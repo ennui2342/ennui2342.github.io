@@ -1,17 +1,22 @@
 ---
 publish: true
-title: The interconnectedness of communications, architecture, and organisational design
+title: The interconnectedness of communications, architecture, and
+  organisational design
 filename: 2020-10-06-the-interconnectedness-of-communications-architecture-and-organisational-design
-excerpt: Effective communication and team size are important factors in team performance. Research has shown that the number of connections between team members impacts performance, and smaller teams are generally more effective.
+excerpt: Effective communication and team size are important factors in team
+  performance. Research has shown that the number of connections between team
+  members impacts performance, and smaller teams are generally more effective.
+tags:
+  - communication
+  - teamsize
+  - agile
+  - collaboration
 ---
+
 
 ![Image of cables in a console.png](../assets/images/Image%20of%20cables%20in%20a%20console.png)
 
-<figcaption>
-
 Photo by [John Barkiple](https://unsplash.com/@barkiple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection-wires?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
-</figcaption>
 
 CEO of Amazon, Jeff Bezos famously once stood up to the suggestion that employees should communicate more with his retort “No, communication is terrible!”.
 
@@ -42,3 +47,5 @@ More recently the DevOps movement has been all about breaking down organisationa
 Redgate has had small cross-functional product teams for a long while. We’ve been successful because our organisational design has been well suited to building a portfolio of largely independent end-user tools. But as we evolve into an era of bigger and more inter-connected enterprise software, our organisational design and software architecture need to work in concert to meet the challenges ahead.
 
 For the first time we’re [creating software architect roles](https://www.red-gate.com/our-company/careers/current-opportunities/) to help us map out internal [boundaries](https://martinfowler.com/bliki/BoundedContext.html) in our products that can not only reflect technologies and business domains, but also are right-sized for the cognitive capacity of small product teams and optimised to reduce the need for cross-team communication. We believe, if we get this right, our engineering operating model will scale with our software architecture and our organisational design supporting rather than fighting each other.
+
+#communication #teamsize #agile #collaboration
