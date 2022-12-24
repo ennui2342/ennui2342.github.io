@@ -36,24 +36,15 @@ Ingenious simplicity derives from a constant focus on moving things into the sim
 
 In summary, businesses are not inherently simple things but do contain many opportunities for ingenious simplicity. I venture these few heuristics which have worked well for me in the intervening years since that first reading of ‘Getting Real’…
 
-1. Reward simplicity as well as rewarding new.
-
-2. Document your operating model and playbook.
-
+1. Reward simplicity as well as rewarding new.
+2. Document your operating model and playbook.
 3. Treat organisational changes as experiments with hypothesis and measures.
-
 4. Mindfully review your practices every half year.
-
 5. Snowflakes are bad, favour [primitives](https://en.wikipedia.org/wiki/Geometric_primitive) — be prepared to sacrifice local optimisation for simplicity and scalability.
-
 6. Handovers create complexity — resist specialisation as long as you can.
-
 7. Coaching is a simplifying superpower — [teach a man to fish](https://en.wiktionary.org/wiki/give_a_man_a_fish_and_you_feed_him_for_a_day;_teach_a_man_to_fish_and_you_feed_him_for_a_lifetime).
-
 8. Favour good prioritisation over ringfencing and time slicing, you’ll have flexibility when you need it.
-
 9. Create slack for the important but not urgent, time for serendipity.
-
 10. Design in a healthy tension between operational delivery and continuous improvement.
 
 #ingeniously-simple #complexity #organisational-design 
