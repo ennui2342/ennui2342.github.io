@@ -19,12 +19,12 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 locale                   : "en-GB"
 title                    : "The Digital Polis"
 title_separator          : "-"
-subtitle                 : "Solipsist Nation"
+subtitle                 : "Thoughts from the solipsist nation"
 name                     : "Mark Cheverton"
 description              : "A blog about innovation, geekery, and the obsessions of a maker"
-url                      : "http://ecafe.org/"
+url                      : "https://ecafe.org/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "ennui2342/ennui2343.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -74,7 +74,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification : "P7biiNYjgRQdJzNWdE3-TT0jB4j7wbw7HKYvrWe6JMc"
+google_site_verification :
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -87,7 +87,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : /assets/images/avatar2.jpg # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -111,33 +111,30 @@ analytics:
 #  linkedin:         markcheverton
 author:
   name             : "Mark Cheverton"
-  avatar           : "/assets/images/avatar.jpg"
+  avatar           : "/assets/images/avatar2.jpg"
   bio              : "Geek, maker, artisan, astronomer, and entrepreneur."
   location         : "Cambridge, UK"
   email            : "mark.cheverton@ecafe.org"
   links:
-    - label: "Website"
+    - label: "photonfog.com"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "http://photonfog.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/markcheverton/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ennui2342"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ennui2342"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ennui2342"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ennui2342"
     - label: "Goodreads"
       icon: "fab fa-fw fa-goodreads"
       url: "http://www.goodreads.com/ennui2342"
-    - label: "Board game geek"
+    - label: "Boardgamegeek"
       icon: "fas fa-fw fa-chess"
       url: "http://boardgamegeek.com/user/ennui"
     - label: "Thingiverse"
@@ -156,24 +153,15 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/markcheverton/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: "https://twitter.com/ennui2342"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/ennui2342"
 
 
 # Reading Files
@@ -183,7 +171,6 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
-  - "*.scriv/*"
   - vendor
   - .asset-cache
   - .bundle
@@ -316,3 +303,4 @@ defaults:
       comments: false
       share: true
       related: true
+      show_date: true
