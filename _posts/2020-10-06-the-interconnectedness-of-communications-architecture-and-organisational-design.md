@@ -3,8 +3,8 @@ publish: true
 title: The interconnectedness of communications, architecture, and
   organisational design
 filename: 2020-10-06-the-interconnectedness-of-communications-architecture-and-organisational-design
-excerpt: Effective communication and team size are important factors in team
-  performance and organisational design.
+excerpt: Engineering team size can be an important factor in team performance
+  and should be a mindful part of your organisational design.
 tags:
   - communication
   - teamsize
