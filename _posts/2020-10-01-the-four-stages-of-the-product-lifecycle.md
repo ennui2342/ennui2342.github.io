@@ -41,4 +41,4 @@ The primary business goal for a product typically varies by which lifecycle stag
 
 So what does this practically mean for you if you work in engineering? When we go through our [dynamic re-teaming](https://medium.com/ingeniouslysimple/team-self-selection-without-the-anxiety-be5a1478c484) exercise at the start of the year, we ask the teams to put together a charter which makes it clear what products a team will be working on and importantly where the products sit in this model and hence the style work that you might be doing as a member of the team. As we stated at the start of this post; all engineering is not the same, but perhaps more importantly we recognise that all engineers are not the same. By being clear on the software lifecycle and allowing fluidity between teams, we hope that people can gravitate towards the work that best suits them where they can make the biggest contribution.
 
-#innovation #lifecycle #talc #product-management 
+    
