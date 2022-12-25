@@ -1,6 +1,9 @@
 ---
 title: Stream processing in Ruby
 excerpt: Introducing Qswarm, a DSL implementing a stream processing agent framework for Ruby
+tags:
+  - ruby
+  - steam-processing
 ---
 
 Reactive applications seems to have been the new hotness this year. Whether it’s at a conference about Big Data, DevOps or IoT, the same use case is coming up repeatedly - the need to process real-time streams of data. There’s even a [reactive programming manifesto][Reactive Manifesto] for those really feeling the need to get polemical about it.

@@ -1,7 +1,8 @@
 ---
 title: November iotcam community update
 excerpt: November Cambridge Internet of Things community update
-tags: iot iotcam 
+tags:
+    - iot
 ---
 
 Last week we saw an excellent couple of talks at November’s [Cambridge

@@ -1,6 +1,9 @@
 ---
 title: Internet of Things kit for hackdays/spaces
 excerpt: Defining a kit for an Internet of Things hackday or hackerspace
+tags:
+  - maker
+  - iot
 ---
 
 Roughly every quarter my employer, [Red Gate](http://www.red-gate.com/),

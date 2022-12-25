@@ -1,6 +1,11 @@
 ---
 title: A day in the life of Red Gate via MQTT
 excerpt: Using MQTT, RabbitMQ, PhantomJS, Sinatra, and Qswarm to build a tweet printing installation
+tags:
+  - maker
+  - iot
+  - arduino
+  - mqtt
 ---
 
 ![Phone](/assets/images/thermal-printer-phone.jpg)

@@ -1,6 +1,9 @@
 ---
 title: Stream support for the Arduino MQTT library
 excerpt: Added the ability to write large payloads to Stream compatible storage
+tags:
+  - arduino
+  - mqtt
 ---
 
 > [MQTT][] is a lightweight messaging protocol for the [Internet of

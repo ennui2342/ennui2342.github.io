@@ -1,6 +1,8 @@
 ---
 title: Hard drive clock
 excerpt: Fun things to do with an old hard drives
+tags:
+    - maker
 ---
 
 At the weekend I was clearing out some junk and came across a pile of

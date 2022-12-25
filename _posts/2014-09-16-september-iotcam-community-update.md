@@ -1,6 +1,8 @@
 ---
 title: September iotcam community update
 excerpt: September Cambridge Internet of Things community update
+tags:
+    - iot
 ---
 
 ![#iotcam](/assets/images/iotcam.jpg)

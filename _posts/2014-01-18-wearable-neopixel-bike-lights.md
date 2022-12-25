@@ -1,6 +1,9 @@
 ---
 title: Wearable NeoPixel Bike Lights
 excerpt: A project to make wearable bike lights by embedding Adafruit NeoPixels into a messenger bag
+tags:
+  - maker
+  - arduino
 ---
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/wQitfnP5M9Q" frameborder="0"></iframe>

@@ -1,6 +1,8 @@
 ---
 title: "Enumerating Makespace #1 - Model Prep"
 excerpt: My build log for Enumerating Makespace - a project to demonstrate every piece of equipment in my local hackerspace
+tags:
+    - maker
 ---
 
 ![Makespace](/assets/images/makespace.jpg)

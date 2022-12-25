@@ -1,6 +1,8 @@
 ---
 title: February Cambridge IoT meetup
 excerpt: Our first meetup of 2014 saw talks from Pilgrim Beart and Patrick Bergel
+tags:
+    - iot
 ---
 
 ![#iotcam](/assets/images/feb-iotcam.jpg)
