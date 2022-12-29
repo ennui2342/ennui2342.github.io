@@ -1,7 +1,6 @@
 ---
 publish: true
 title: Designing an engineering distribution model to fit your go-to-market
-filename: 2021-03-10-designing-an-engineering-distribution-model-to-fit-your-go-to-market
 excerpt: There is no 'best' distribution model for software. Instead you must
   design your distribution, and your engineering operating model, based on the
   needs of your market.
