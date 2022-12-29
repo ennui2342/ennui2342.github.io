@@ -17,10 +17,6 @@ tags:
   - collaboration
 ---
 
-
-![Image of cables in a console.png](../assets/images/Image%20of%20cables%20in%20a%20console.png)
-Photo by [John Barkiple](https://unsplash.com/@barkiple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection-wires?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 CEO of Amazon, Jeff Bezos famously once stood up to the suggestion that employees should communicate more with his retort “No, communication is terrible!”.
 
 I was reminded of this recently while reading the book [Team Topologies](https://teamtopologies.com/) which recommends that architectural and organisational designs should leverage the high-bandwidth communication that is natural within teams and minimise the low-bandwidth communication between teams. Jeff Bezo’s sentiment was similar — he recognised that organisations often find themselves bogged down in cross-team communication to co-ordinate complex work. His desire to eliminate this kind of communication manifested itself most clearly in his (in)famous 2002 [API mandate](https://pulseasync.com/operators/frameworks-for-remote-working/) which dictated that all Amazon teams must communicate with each other through formalised APIs.
