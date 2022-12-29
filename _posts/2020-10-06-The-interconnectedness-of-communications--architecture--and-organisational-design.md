@@ -7,7 +7,7 @@ filename: 2020-10-06 The interconnectedness of communications, architecture, and
 excerpt: Engineering team size can be an important factor in team performance
   and should be a mindful part of your organisational design.
 header:
-  image: /assets/image/Image of cables in a console.png
+  image: /assets/images/Image of cables in a console.png
   caption: Photo by [John
     Barkiple](https://unsplash.com/@barkiple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection-wires?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 tags:
