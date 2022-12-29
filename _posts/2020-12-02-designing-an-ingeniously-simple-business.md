@@ -1,7 +1,6 @@
 ---
 publish: true
 title: Designing an ingeniously simple business
-filename: 2020-12-02-designing-an-ingeniously-simple-business
 excerpt: We advocate for simplicity in our software, but incentivise staff to
   build complex businesses.
 header:
