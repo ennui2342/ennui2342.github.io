@@ -4,6 +4,8 @@ title: Designing an ingeniously simple business
 filename: 2020-12-02-designing-an-ingeniously-simple-business
 excerpt: We advocate for simplicity in our software, but incentivise staff to
   build complex businesses.
+header:
+  og_image: /assets/images/Plane cockpit.png
 tags:
   - ingeniously-simple
   - complexity
@@ -47,4 +49,4 @@ In summary, businesses are not inherently simple things but do contain many oppo
 9. Create slack for the important but not urgent, time for serendipity.
 10. Design in a healthy tension between operational delivery and continuous improvement.
 
-#ingeniously-simple #complexity #organisational-design 
+   
