@@ -5,6 +5,8 @@ filename: 2021-03-10-designing-an-engineering-distribution-model-to-fit-your-go-
 excerpt: There is no 'best' distribution model for software. Instead you must
   design your distribution, and your engineering operating model, based on the
   needs of your market.
+header:
+  og_image: /assets/images/The 1-2-3 model.png
 tags:
   - go-to-market
   - operating-model
@@ -43,4 +45,4 @@ For engineering, the 1–2–3 model is not just a commercial model, it’s the 
 
 But by far our biggest current investment and focus is in creating a Kubernetes-based platform which can deliver portability, compliance, and portfolio integration for our enterprise customers who are buying Redgate (mode 3 in the model). Our platform strategy is the result of engineering looking ahead to where the business strategy is taking us over the next five years as we open up the enterprise market, anticipating the distribution model that will be needed to get engineering Enterprise Ready.
 
-#go-to-market #operating-model #software-distribution #1-2-3-model 
+    
