@@ -35,4 +35,5 @@ Organisationally, we can unpack the internal platform to a platform group consis
 
 Each of these teams _is_ a DevOps team, for some their output might be mostly code, for others their output might be mostly infrastructure, but the job isn’t finished by throwing that work over the fence to the next team — the measure of a team is how their work runs in the production environment.
 
+
    
