@@ -1,5 +1,7 @@
 ---
 publish: true
+title: 2020-10-06 The interconnectedness of communications, architecture, and
+  organisational design
 excerpt: Engineering team size can be an important factor in team performance
   and should be a mindful part of your organisational design.
 header:
