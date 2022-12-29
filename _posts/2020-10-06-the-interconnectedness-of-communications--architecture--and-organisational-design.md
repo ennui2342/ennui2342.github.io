@@ -1,19 +1,23 @@
 ---
 publish: true
+title: The interconnectedness of communications, architecture, and
+  organisational design
 filename: 2020-10-06 the interconnectedness of communications, architecture, and
   organisational design
 excerpt: Engineering team size can be an important factor in team performance
   and should be a mindful part of your organisational design.
 header:
-  image: /assets/images/Image of cables in a console.png
-  caption: Photo by [John
-    Barkiple](https://unsplash.com/@barkiple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection-wires?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
+  og_image: /assets/images/Image of cables in a console.png
 tags:
   - communication
   - teamsize
   - agile
   - collaboration
 ---
+
+
+![Image of cables in a console.png](../assets/images/Image%20of%20cables%20in%20a%20console.png)
+Photo by [John Barkiple](https://unsplash.com/@barkiple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/connection-wires?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 
 CEO of Amazon, Jeff Bezos famously once stood up to the suggestion that employees should communicate more with his retort “No, communication is terrible!”.
 
