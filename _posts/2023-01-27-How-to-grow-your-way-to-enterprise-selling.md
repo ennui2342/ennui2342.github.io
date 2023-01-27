@@ -5,6 +5,8 @@ excerpt: Understanding the difference between products, solutions, and enterpris
 header:
   og_image: /assets/images/software tiers.png
 ---
+![skyscrapers at night.jpg](../assets/images/skyscrapers%20at%20night.jpg)
+
 Software companies are strongly motivated to service as much of the [market demand curve](https://en.wikipedia.org/wiki/Demand_curve) as possible, but in practice it's challenging to sell at volume to end-users with a [product-led growth model](https://openviewpartners.com/product-led-growth/), and at the same time sell to enterprises with an [account-based sales model](https://www.drift.com/blog/account-based-selling/). While it's common to see tiered models on SaaS pricing pages, if you look under the hood, the company's commercial organisational design usually results in a clear revenue bias to either low-cost mass-market, or high-cost enterprise sales.
 
 But it's not just the commercial model that can prove a barrier. Product managers are often guilty of treating tiers as feature checklists; the enterprise version is a souped-up version of the standard package. That's like approaching the design of a truck by incrementally adding more features to a car. It misses that the [JTBD](https://strategyn.com/jobs-to-be-done/) has changed, meaning a souped-up car will likely lose out to a competitor who approaches the truck JTBD afresh with [first principles thinking](https://www.techtello.com/first-principles-thinking/). The reality is that feature hierarchies don't evince the experiential difference between mass-market software and enterprise software.
