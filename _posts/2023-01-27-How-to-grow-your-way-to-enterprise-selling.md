@@ -20,7 +20,8 @@ Backing up is such a common task that it's a verb, and there are many simple and
 Our fictional company notices a gap in the backup market and launches a command-line tool with a low-friction, product-led growth commercial model. Thanks to our [lean startup](https://theleanstartup.com/) approach and our designers nailing a great user experience, it takes off and we win over thousands of individual users all happily protecting their data with our product. Over time, these users request further functional features like encryption, incremental backups, and operating system support, so we pile on the development and eventually become the dominant tool in our market.
 
 ![software tiers product.png](../assets/images/software%20tiers%20product.png)
-Common attributes of the product era
+
+*Common attributes of the product era*
 
 # The solution era
 
@@ -35,7 +36,8 @@ We switch our development effort to focus on the needs of this new persona. Unli
 Emerging from our design conversations comes a need for an asset which indirectly represents a backup - the BackupFile. Much like a VagrantFile or DockerFile, our BackupFile is a declarative representation of the [backup-as-code](https://venturebeat.com/automation/what-everything-as-code-is-and-why-it-matters/) which allows us to shift-left ownership into development and apply standard development practices such as version control, release management, monitoring, testing, and drift detection. We realise that BackupFiles should be the centre of the solution for the technical managers. We package it up, hire a team of [inbound salespeople](https://blog.hubspot.com/sales/inbound-sales-transforming-the-way-you-sell), and start on the road to domination of the mid-market.
 
 ![software tiers solution.png](../assets/images/software%20tiers%20solution.png)
-Common attributes of the solution era
+
+*Common attributes of the solution era*
 
 # The enterprise era
 
@@ -50,7 +52,8 @@ The product once again grows to meet the new persona. By auditing the use of Bac
 We now have total dominance of the backup market with tiered offers for all points of the demand curve... until the next disruption occurs.
 
 ![software tiers enterprise solution.png](../assets/images/software%20tiers%20enterprise%20solution.png)
-Common attributes of the enterprise solution era
+
+*Common attributes of the enterprise solution era*
 
 # Wrap-up
 
